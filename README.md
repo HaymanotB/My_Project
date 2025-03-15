@@ -25,8 +25,6 @@ This repository contains the steps and files for the Git assignment.
 
   mkdir data
   touch data/pheno.csv
-  git add data/pheno.csv
-  git commit -m "Add pheno.csv file to data directory"
 
 ## Step 5: Create a scripts directory containing the file myfunction.py:
 
