@@ -1,8 +1,6 @@
 # Git Assignment
 
-This repository contains the steps and files for the Git assignment.
- The assignment involves creating a new Git repository, working with branches,
- and pushing the repository to a remote GitHub repository.
+This repository contains the steps and files for the Git assignment. The assignment involves creating a new Git repository, working with branches, and pushing the repository to a remote GitHub repository.
 
 ## Steps 1: Create a new directory in home directory and initialize it as a Git repository
   cd ~ 
