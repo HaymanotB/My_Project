@@ -40,7 +40,7 @@ This repository contains the steps and files for the Git assignment.
   git add .gitignore
   git commit -m "Ignore data directory"
   
-## Step 7: Merge the dev branch with the main branch:
+## Step 7: Merge the dev branch with the main branch and delete dev branch:
 
   git checkout main
   git merge dev
